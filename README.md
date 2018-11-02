@@ -11,7 +11,7 @@ From the beginning of the project I was adamant about one thing.  This save edit
 The original idea of this project was for a simple script to add a feature not included in the original game:  New Game Plus.  That is, provided you had a save file of cleared game you could generate a new save file that would start from the very beginning yet retain all items/stats/followers/etc.  For this reason nearly every set of data contains an "import" and "export" button that will aid in such massive data transfer.
 
 ## Main Tab
-![image1](https://github.com/RPGFAN128/Unchained-Blades-Save-Editor/blob/master/screens/1.png)
+![image1](https://github.com/RPGFAN128/Unchained-Blades-Save-Editor/blob/master/screens/1.png)  
 Editing the maximum number of followers can cause problems at the following points of the game (and possibly others)  
 (1)  Advancing from Chapter 1 to Chapter 2.  
 (2)  Advancing from Chapter 2 to Chapter 3.  
@@ -21,11 +21,11 @@ In all instances when follower data is copied it relies on the "max followers" v
 Editing your location will only take effect if you are in a dungeon area. (i.e. not town)  
 
 ## Items
-![image2](https://github.com/RPGFAN128/Unchained-Blades-Save-Editor/blob/master/screens/2.png)
+![image2](https://github.com/RPGFAN128/Unchained-Blades-Save-Editor/blob/master/screens/2.png)  
 (Currently no known issues)  
 
 ## Maps
-![image3](https://github.com/RPGFAN128/Unchained-Blades-Save-Editor/blob/master/screens/3.png)
+![image3](https://github.com/RPGFAN128/Unchained-Blades-Save-Editor/blob/master/screens/3.png)  
 Included in this release is a custom tile set to avoid copyright issues.  
 
 ## Master
