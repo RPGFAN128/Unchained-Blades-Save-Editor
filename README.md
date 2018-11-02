@@ -47,4 +47,4 @@ This section was added at the last minute.  As such this tab is the least user-f
 Treasure Chest Tab.  Treasure chest binary switches seem to be in addresses B018-B027.  As an example the first treasure you are required to collect is bit 7 in B018.  
 Locked Doors Tab.  These binary switches seem to be in addresses B07C-B08B.  As an example the locked door requiring the Trial Key to unlock is bit 5 in B07C.  
 An advanced mode that allows you to edit any (known) value to whatever value you wish.  As an example: an item value not allowed in the combo box.  
-Item Synthesis Proficiency.  
+Item Synthesis Proficiency. To be honest I completely forget about mixing items and leveling up your "proficency" during this play through as I was hacking every item I needed.  
